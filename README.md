@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32520460/README.md)
+
 # Model-Based Electric Drive Control & Virtual Verification Platform
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2026a-orange.svg)](https://www.mathworks.com/products/matlab.html)
