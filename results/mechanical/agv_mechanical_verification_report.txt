@@ -1,0 +1,23 @@
+MODEL-BASED ELECTRIC DRIVE CONTROL & VIRTUAL VERIFICATION PLATFORM
+PHASE 2 - AGV MECHANICAL PLANT VERIFICATION REPORT
+============================================================
+
+Plant equation:
+m*dv/dt = F_drive - F_load - b*v
+
+Nominal vehicle mass       : 200.00 kg
+Wheel radius               : 0.100 m
+Gear ratio                 : 10.00 : 1
+Drivetrain efficiency      : 95.00 %
+Resistance coefficient     : 50.00 N*s/m
+Drive force                : 380.00 N
+
+Scenario Verification
+------------------------------------------------------------
+M0_Nominal          Velocity Error: 0.000000 m/s  Accel Error: 0.000000 m/s^2  true
+M1_Payload          Velocity Error: 0.000000 m/s  Accel Error: 0.000000 m/s^2  true
+M2_PreLoad          Velocity Error: 0.000000 m/s  Accel Error: 0.000000 m/s^2  true
+M2_PostLoad         Velocity Error: 0.000000 m/s  Accel Error: 0.000000 m/s^2  true
+
+------------------------------------------------------------
+OVERALL RESULT: PASS

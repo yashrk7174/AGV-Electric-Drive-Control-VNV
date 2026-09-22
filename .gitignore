@@ -1,0 +1,43 @@
+# ============================================================
+# MATLAB / Simulink generated files
+# ============================================================
+
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.bak
+
+# Simulink compiled-model cache
+*.slxc
+
+# Simulink and Stateflow generated directories
+slprj/
+sccprj/
+*_sfprj/
+
+# Generated code directories
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+*_rsim_rtw/
+
+# MATLAB temporary and diagnostic files
+*.tmp
+*.log
+matlab_crash_dump.*
+java.log
+
+# ============================================================
+# IDE and operating-system files
+# ============================================================
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor temporary files
+*.swp
+*.swo
+*~
